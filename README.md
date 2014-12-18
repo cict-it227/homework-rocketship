@@ -3,6 +3,8 @@ Rocketship
 
 Using the [Phaser HTML5 game framework](http://phaser.io/), make the rocketship fly by any means (keyboard, mouse, other events or pre-defined animations). Be creative.
 
+> Before you start, you must learn first the [basics of using github](https://help.github.com/articles/set-up-git/#platform-windows).
+
 ### Instructions
 1. Work alone or with a partner.
 2. Fork this repository.
