@@ -18,6 +18,6 @@ Using the [Phaser HTML5 game framework](http://phaser.io/), make the rocketship 
 
 Happy coding,
 
-![logo](assets/logo.png "logo")
+![logo](assets/logo.png "logo")<br>
 **mjsolidarios**
 <br>part-time-faculty | iictwvsu | ph
