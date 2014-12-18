@@ -19,6 +19,10 @@ but before you start, you must learn first the [basics of using github](https://
 
 > If you're still confused, you can check the work of delacruz_juan as your guide.
 
+### Reminders
+* Please respect the terms of use and/or license of any code you find, and if you reimplement or duplicate an algorithm or code from elsewhere, credit the original source with an inline comment.
+* Don't forget to check what kind of open source license as source code have. You may want to visit [choosealicense.com](http://choosealicense.com) for more information.
+
 Happy coding,
 
 ![logo](assets/logo.png "logo")<br>
