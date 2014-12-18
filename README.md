@@ -1,4 +1,4 @@
-Rocketship
+Project Lupad
 ===================
 
 Using the [Phaser HTML5 game framework](http://phaser.io/), make the rocketship fly by any means (keyboard, mouse, other events or pre-defined animations). Be creative.
