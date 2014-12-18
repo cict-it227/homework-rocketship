@@ -17,6 +17,7 @@ Using the [Phaser HTML5 game framework](http://phaser.io/), make the rocketship 
 > If you're still confused, you can check the work of delacruz_juan as your guide.
 
 Happy coding,
+
 ![logo](assets/logo.png "logo")
 **mjsolidarios**
 <br>part-time-faculty | iictwvsu | ph
