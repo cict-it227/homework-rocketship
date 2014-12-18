@@ -11,7 +11,7 @@ but before you start, you must learn first the [basics of using github](https://
 2. Fork this repository.
 3. Clone your forked repository into your hard drive.
 4. Make some changes to your repository.
-  - Create your working directory named with your full name(s) **[lastname_firstname-lastname_firstname]** (separated by a dash).
+  - Create your working directory named with your full name(s) **[lastname_firstname-lastname_firstname]** (names separated by a dash).
   - Copy the contents of the **scaffolding** into your working directory.
   - Modify the scaffolding's source code files such that your rocket ship will be able to fly.
 5. When you're satisfied with your output, create a pull request to this repository. If you don't know how, check out [how you can create a pull request on github](https://help.github.com/articles/creating-a-pull-request/).
