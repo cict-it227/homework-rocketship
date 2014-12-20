@@ -1,3 +1,5 @@
+//the getting started guide can be found here: https://github.com/photonstorm/phaser/tree/master/resources/tutorials
+
 //get window size using jquery
 var winh = $(window).height()-20;
 var winw = $(window).width()-20;
