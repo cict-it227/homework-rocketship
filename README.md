@@ -6,6 +6,8 @@ Using the [Phaser HTML5 game framework](http://phaser.io/), make the rocketship 
 > This homework is worth **50 points**
 but before you start, you must learn first the [basics of using github](https://help.github.com/articles/set-up-git/#platform-windows). If you already know how to use github, you may skip this step.
 
+> Only the merged working directories will be given points, email or personal submission will not be accepted.
+
 ### Instructions
 1. Work alone or with a partner.
 2. Fork this repository.
