@@ -16,8 +16,9 @@ but before you start, you must learn first the [basics of using github](https://
   - Create your working directory named with your full name(s) **[lastname_firstname-lastname_firstname]** (names separated by a dash).
   - Copy the contents of the **scaffolding** into your working directory.
   - Modify the scaffolding's source code files such that your rocket ship will be able to fly.
-5. When you're satisfied with your output, create a pull request to this repository. If you don't know how, check out [how you can create a pull request on github](https://help.github.com/articles/creating-a-pull-request/).
-6. Your teacher will review your code and merge it to this repository.
+5. When you're satisfied with your output, push your source code to your own repository.
+6. Create a pull request to this repository. If you don't know how, check out [how you can create a pull request on github](https://help.github.com/articles/creating-a-pull-request/).
+7. Your teacher will review your code and merge it to this repository.
 
 > If you're still confused, you can check the work of delacruz_juan and walaapilyedo_junjun as your guide.
 
