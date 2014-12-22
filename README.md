@@ -8,6 +8,8 @@ but before you start, you must learn first the [basics of using github](https://
 
 > Only the merged working directories will be given points, email or personal submission will not be accepted.
 
+> Please do not delete or modify your classmate's working directory. Thanks!
+
 ### Instructions
 1. Work alone or with a partner.
 2. Fork this repository.
