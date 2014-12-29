@@ -22,7 +22,7 @@ but before you start, you must learn first the [basics of using github](https://
 6. Create a pull request to this repository. If you don't know how, check out [how you can create a pull request on github](https://help.github.com/articles/creating-a-pull-request/).
 7. Your teacher will review your code and merge it to this repository.
 
-> If you're still confused, you can check the work of delacruz_juan and walaapilyedo_junjun as your guide.
+> If you're still confused, you can check the work of delacruz_juan as your guide.
 
 ### Reminders
 * Please respect the terms of use and/or license of any code you find, and if you reimplement or duplicate an algorithm or code from elsewhere, credit the original source with an inline comment.
