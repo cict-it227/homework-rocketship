@@ -18,7 +18,7 @@ window.onload = function () {
     //pre-define game assets and settings
     function preload () {
         //game.load.image('rocket', 'assets/rocket.png');
-        game.load.image('rocket', 'assets/rocket_white.png');
+        game.load.image('rocket', 'assets/rocket_white.png'); // Added new rocket with diff. color to match the background
         game.load.image('starfield', 'assets/starfield.jpg');
     }
 
