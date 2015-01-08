@@ -1,0 +1,5 @@
+/*Put the canvas to the center and add a border */
+canvas {
+  margin: 0 auto;
+  border: 1px solid #333;
+}
