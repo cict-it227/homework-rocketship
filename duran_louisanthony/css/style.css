@@ -1,0 +1,30 @@
+canvas {
+    border: 1px solid #333;
+    margin-left: 450px;
+    margin-top: 25px;
+}
+
+.heading{
+    position: absolute;
+    width: 350px;
+    padding-left: 20px;
+    padding-top: 15px;
+}
+
+h1{
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 50px;
+    margin-bottom: 0px !important;
+}
+
+h2{
+    font-family: sans-serif;
+    font-weight: 100;
+    font-style: italic;
+    margin-top: 0px !important;
+}
+
+p{
+    padding-top: 10px;
+}
