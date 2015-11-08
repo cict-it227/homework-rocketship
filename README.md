@@ -15,7 +15,7 @@ but before you start, you must learn first the [basics of using github](https://
 2. Fork this repository.
 3. Clone your forked repository into your hard drive.
 4. Make some changes to your repository.
-  - Create your working directory named with your full name(s) **[lastname_firstname-lastname_firstname]** (names separated by a dash).
+  - Create your working directory named with your full name(s) **[lastname_firstname-lastname_firstname]** (names separated by a dash) under ```_data/SCHOOL_YEAR```.
   - Copy the contents of the **scaffolding** into your working directory.
   - Modify the scaffolding's source code files such that your rocket ship will be able to fly.
 5. When you're satisfied with your output, push your source code to your own repository.
@@ -27,6 +27,8 @@ but before you start, you must learn first the [basics of using github](https://
 ### Reminders
 * Please respect the terms of use and/or license of any code you find, and if you reimplement or duplicate an algorithm or code from elsewhere, credit the original source with an inline comment.
 * Don't forget to check what kind of open source license a source code have. You may want to visit [choosealicense.com](http://choosealicense.com) for more information.
+
+***
 
 Happy coding,
 
